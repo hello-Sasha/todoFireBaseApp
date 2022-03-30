@@ -1,7 +1,7 @@
 {
   "name": "todofire",
   "version": "0.1.0",
-  "homepage": "https://github.com/hello-Sasha/todoFireBaseApp.git",
+  "homepage": "https://hello-Sasha.github.io/todoFireBaseApp",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.8.2",
