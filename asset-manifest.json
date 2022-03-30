@@ -1,14 +1,14 @@
 {
-  "main.js": "/hello-Sasha/todoFireBaseApp.git/static/js/main.054d5f36.chunk.js",
-  "main.js.map": "/hello-Sasha/todoFireBaseApp.git/static/js/main.054d5f36.chunk.js.map",
-  "static/css/1.2b8ebb6a.chunk.css": "/hello-Sasha/todoFireBaseApp.git/static/css/1.2b8ebb6a.chunk.css",
-  "static/js/1.6ab03385.chunk.js": "/hello-Sasha/todoFireBaseApp.git/static/js/1.6ab03385.chunk.js",
-  "static/js/1.6ab03385.chunk.js.map": "/hello-Sasha/todoFireBaseApp.git/static/js/1.6ab03385.chunk.js.map",
-  "runtime~main.js": "/hello-Sasha/todoFireBaseApp.git/static/js/runtime~main.38a63181.js",
-  "runtime~main.js.map": "/hello-Sasha/todoFireBaseApp.git/static/js/runtime~main.38a63181.js.map",
-  "static/media/300.css": "/hello-Sasha/todoFireBaseApp.git/static/media/roboto-latin-300-normal.80fe119e.woff2",
-  "static/css/1.2b8ebb6a.chunk.css.map": "/hello-Sasha/todoFireBaseApp.git/static/css/1.2b8ebb6a.chunk.css.map",
-  "index.html": "/hello-Sasha/todoFireBaseApp.git/index.html",
-  "precache-manifest.2d911dbc0506206b8ea286100eab2baa.js": "/hello-Sasha/todoFireBaseApp.git/precache-manifest.2d911dbc0506206b8ea286100eab2baa.js",
-  "service-worker.js": "/hello-Sasha/todoFireBaseApp.git/service-worker.js"
+  "main.js": "/todoFireBaseApp/static/js/main.054d5f36.chunk.js",
+  "main.js.map": "/todoFireBaseApp/static/js/main.054d5f36.chunk.js.map",
+  "static/css/1.3ba8c78f.chunk.css": "/todoFireBaseApp/static/css/1.3ba8c78f.chunk.css",
+  "static/js/1.6245afdd.chunk.js": "/todoFireBaseApp/static/js/1.6245afdd.chunk.js",
+  "static/js/1.6245afdd.chunk.js.map": "/todoFireBaseApp/static/js/1.6245afdd.chunk.js.map",
+  "runtime~main.js": "/todoFireBaseApp/static/js/runtime~main.807242e9.js",
+  "runtime~main.js.map": "/todoFireBaseApp/static/js/runtime~main.807242e9.js.map",
+  "static/media/300.css": "/todoFireBaseApp/static/media/roboto-latin-300-normal.80fe119e.woff2",
+  "static/css/1.3ba8c78f.chunk.css.map": "/todoFireBaseApp/static/css/1.3ba8c78f.chunk.css.map",
+  "index.html": "/todoFireBaseApp/index.html",
+  "precache-manifest.49625f81e95458dcc6836c40f2e26428.js": "/todoFireBaseApp/precache-manifest.49625f81e95458dcc6836c40f2e26428.js",
+  "service-worker.js": "/todoFireBaseApp/service-worker.js"
 }

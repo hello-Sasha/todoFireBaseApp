@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hello-Sasha/todoFireBaseApp.git/precache-manifest.2d911dbc0506206b8ea286100eab2baa.js"
+  "/todoFireBaseApp/precache-manifest.49625f81e95458dcc6836c40f2e26428.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/hello-Sasha/todoFireBaseApp.git/index.html", {
+workbox.routing.registerNavigationRoute("/todoFireBaseApp/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
